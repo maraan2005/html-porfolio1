@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&family=Inter:wght@500&family=JetBrains+Mono:wght@500&family=Kanit:ital,wght@1,300&family=Mate+SC&family=Satisfy&display=swap');
+*{    
+    padding: 0;
+    margin: 0;
+    
+}
+body{
+
+    background: url(WhatsApp\ Image\ 2023-07-28\ at\ 06.57.39.jpg) no-repeat center center fixed;
+    background-color: black;
+}
+.title{
+    color: #d31424;
+    font-weight: 900;
+    font-family: 'Borel', cursive;
+    text-align: center;
+    padding: 10px 0 0 0;
+    font-size: 23px;
+}
+.quote{
+    color: #d4cacb;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    font-size: 25px;
+}
+.quote>h3>span{
+    color:#d31424;
+}
+.details{
+    font-family: 'Mate SC', serif;
+    color: white;
+    position: relative;
+    top: 590px;
+    /* ?margin: 650px 0 0 0; */
+    font-size: 30px;
+    font-weight: 800;
+    text-align: right;
+    color: #d31424;
+    
+}
+.details>p>span{
+    color: white;
+}
+.ourenemy{
+    position: relative;
+    top: 80px;
+    font-size: 50px;
+
+    text-align: center;
+    font-family: 'Mate SC', serif;
+    color: rgb(248, 168, 168);
+}
+.nameofenemy{
+    color: #d31424;
+    font-size: 20px;
+    align-items: center;
+    text-align: right;
+    position: relative;
+    top: 200px;
+    font-size: 200px;
+}
